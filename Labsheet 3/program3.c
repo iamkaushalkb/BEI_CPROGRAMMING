@@ -12,7 +12,7 @@ int main()
     }
     else
     {
-        printf("NORMAL YEAR");
+        printf("NOT A YEAR");
     }
 
     return 0;

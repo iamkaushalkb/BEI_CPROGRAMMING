@@ -3,13 +3,13 @@
 int main()
 {
     int a,b;
-    int op;
+    int perform;
     printf(" 1.Add\n 2.Subtraction\n 3.Multiply\n 4.Divide\n");
     printf("Enter the values of a & b: ");
     scanf("%d %d",&a,&b);
     printf("Enter your Choice : ");
-    scanf("%d",&op);
-    switch(op)
+    scanf("%d",&perform);
+    switch(perform)
     {
     case 1	:
         printf("Sum of %d and %d is : %d",a,b,a+b);
