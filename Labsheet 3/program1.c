@@ -1,4 +1,4 @@
-// Program to convert uppercase to lowercase and viceversa
+// Program to convert uppercase to lowercase and vice-versa
 #include <stdio.h>
 #include <conio.h>
 
