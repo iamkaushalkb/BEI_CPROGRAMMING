@@ -1,3 +1,4 @@
+// Program to produce output as given eqaution
 #include <stdio.h>
 #include <conio.h>
 
@@ -17,6 +18,7 @@ int main()
 	diff= y - 2;
 	prod= y * 5;
 	div	= x / y;
+
 	printf("\n\tx\t|\ty\t|\tExpresion\t|results");
 	printf("\n\t%d\t|\t%d\t|\tx = y + 3\t|x = %d", x, y, sum);
 	printf("\n\t%d\t|\t%d\t|\tx = y - 2\t|x = %d", x, y, diff);
