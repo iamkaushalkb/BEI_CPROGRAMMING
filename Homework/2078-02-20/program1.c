@@ -1,4 +1,4 @@
-// Program to calculate the following series: 2+4+6+…… upto n terms
+// Program to calculate the following series: 2+4+6+…… upto n terms.
 #include <stdio.h>
 int main()
 {
