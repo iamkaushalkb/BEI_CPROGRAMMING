@@ -1,4 +1,4 @@
-// C program to find the sum of factorial of all the prime 
+// Program to find the sum of factorial of all the prime 
 // factors of a given number
 #include <stdio.h>
 int main()
